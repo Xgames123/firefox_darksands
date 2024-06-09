@@ -1,0 +1,53 @@
+{
+	"manifest_version": 2,
+	"name": "darksands",
+	"description": "darksands theme for Firefox.",
+	"version": "1.0",
+
+	"theme": {
+		"colors": {
+			"frame": "#191817",
+			"frame_inactive": "#191817",
+			"tab_background_separator": "#232020",
+			"tab_background_text": "#4a4747",
+			"tab_text": "#c2bab2",
+			"tab_line": "#4a4747",
+      "tab_selected": "#353232",
+			"tab_loading": "#ffd5a0",
+			"bookmark_text": "#c2bab2",
+
+			"sidebar": "#191817",
+			"sidebar_text": "#c2bab2",
+			"sidebar_highlight_text": "#c2bab2",
+			"sidebar_highlight": "#4a4747",
+			"sidebar_border": "#353232",
+
+			"toolbar": "#191817",
+			"toolbar_top_separator": "#232020",
+			"toolbar_vertical_separator": "#232020",
+			"toolbar_bottom_separator": "#232020",
+			"toolbar_field": "#232020",
+			"toolbar_field_focus": "#232020",
+			"toolbar_field_border": "#2b2828",
+			"toolbar_field_border_focus": "#2b2828",
+			"toolbar_field_highlight": "#4a4747",
+			"toolbar_field_highlight_text": "#c2bab2",
+			"toolbar_field_text": "#c2bab2",
+			"toolbar_field_text_focus": "#c2bab2",
+
+      "button_background_active": "#2b2828",
+      "button_background_hover": "#232020",
+
+			"popup": "#232020",
+			"popup_text": "#c2bab2",
+			"popup_border": "#353232",
+			"popup_highlight": "#4a4747",
+			"popup_highlight_text": "#c2bab2",
+
+			"ntp_background": "#191817",
+			"ntp_text": "#c2bab2",
+      "ntp_card_background":"#232020"
+
+		}
+	}
+}
