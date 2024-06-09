@@ -1,8 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "darksands",
+  "name": "darksands_theme",
   "description": "darksands theme for Firefox.",
-  "version": "1.0",
+	"homepage_url": "https://github.com/Xgames123/firefox_darksands",
+  "version": "1.0.0",
 
   "theme": {
     "colors": {
@@ -49,5 +50,11 @@
       "ntp_card_background":"#232020"
 
     }
-  }
+  },
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "darksands_theme@ldev",
+			"update_url": "https://ldev.eu.org/firefox/updates.json"
+		}
+	}
 }
